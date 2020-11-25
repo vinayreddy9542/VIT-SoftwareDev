@@ -8,3 +8,9 @@ In the level one of the game as given consists of 6 balls and for each ball i ha
 # Level_two
 
 In addition to the level one i have extended game to 3 overs.
+
+
+# Level_three
+
+i have used client server program (with the help of socket programming) to develop the multiplayer game  and have assumed a innigs will be for 1 over.
+and the first player is given the first batting by default which can be changed by getting a new variable for toss.
