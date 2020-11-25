@@ -14,3 +14,6 @@ In addition to the level one i have extended game to 3 overs.
 
 i have used client server program (with the help of socket programming) to develop the multiplayer game  and have assumed a innigs will be for 1 over.
 and the first player is given the first batting by default which can be changed by getting a new variable for toss.
+
+
+Note : for this the ui can be develped using the JSP and SERVLETS or simply by SpringBoot.
